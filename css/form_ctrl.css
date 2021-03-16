@@ -78,7 +78,7 @@ footer p{
     padding: 1.0rem;
     border-radius: .4rem;
     border: solid .1rem;
-    color : var(--color-header);
+    color : #fff;
     background-color: #fafafa;
     
 }
