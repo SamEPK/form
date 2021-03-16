@@ -82,6 +82,10 @@ footer p{
     background-color: #fafafa;
     
 }
+main p{
+    color : #fff;
+    font-family: sans-serif;
+}
 
 .form fieldset legend{
     padding: .5rem;
